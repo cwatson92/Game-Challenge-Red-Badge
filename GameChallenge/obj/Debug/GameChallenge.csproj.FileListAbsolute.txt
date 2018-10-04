@@ -1,0 +1,7 @@
+C:\GameChallenge\GameChallenge\bin\Debug\GameChallenge.exe.config
+C:\GameChallenge\GameChallenge\bin\Debug\GameChallenge.exe
+C:\GameChallenge\GameChallenge\bin\Debug\GameChallenge.pdb
+C:\GameChallenge\GameChallenge\obj\Debug\GameChallenge.csprojResolveAssemblyReference.cache
+C:\GameChallenge\GameChallenge\obj\Debug\GameChallenge.csproj.CoreCompileInputs.cache
+C:\GameChallenge\GameChallenge\obj\Debug\GameChallenge.exe
+C:\GameChallenge\GameChallenge\obj\Debug\GameChallenge.pdb
